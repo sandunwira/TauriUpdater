@@ -1,0 +1,11 @@
+{
+	"version": "1.4.2",
+	"notes": "- Changed Icons (Now Icons have more detailed look).\n- Disabled some hotkeys for reloading the webview.",
+	"pub_date": "2023-05-20T13:30:00Z",
+	"platforms": {
+		"windows-x86_64": {
+			"signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRMTFmVFB1OUFKUlRXaWF1allrUDhrQWx4c3NpblZITnd5Tmt5SGVRZW94R3hFMGdpc05aV3hob2Fudlp1RXY5dTVaMkgyWnVRWU4zTnhDSEhYTVhSL2loYlVWYUlraFFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjg0NTg5NzI3CWZpbGU6U3VwVHViZV8xLjQuMl94NjRfZW4tVVMubXNpLnppcApDSGtvM0hseUdkbFRZdkJxMHlBS2ZUc0pDRExBNVdGQTJzbW5kVFZyWDQxbm0zM2FOdVRIWWp0N25IWWtWdEMzSTR0bGFZMFlwRGRUdkFjRHJjdHBDZz09Cg==",
+			"url": "https://github.com/sandunwira/SupTube/releases/download/1.4.2/SupTube_1.4.2_x64_en-US.msi.zip"
+		}
+	}
+}
