@@ -1,11 +1,11 @@
 {
-	"version": "1.0.0",
-	"notes": "- Initial Release of the App",
-	"pub_date": "2023-10-19T06:00:00Z",
+	"version": "1.1.0",
+	"notes": "- Added Window State plugin\n- Changed updater endpoint",
+	"pub_date": "2024-01-20T20:00:00Z",
 	"platforms": {
 		"windows-x86_64": {
-			"signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSaXNtaWpRNlh5VC9MQkg2Z2NpOTlQVjViSGd6Z2t2S2xFNlc1R1k3NWxQWERGWDNhQ1VUaFhVdGpFY2FYbmMvTVFieExhb0M1NVBJYkYzV2U4Z2E3U2w3OVFlVFlQdHdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjk3NzA4MTcyCWZpbGU6UGFzc0ZvcmdlXzEuMC4wX3g2NF9lbi1VUy5tc2kuemlwClhUYWhYZ252Y0M5Sk1hbVFKRElVRUgydXpIYnBFQTNLaUFmRXlwVENvRTBNcFhGdlBZejI2TUZGQThFbmd3c29WRnNYZ1F3RFlsRFh5K3lZMEVpeENRPT0K",
-			"url": "https://github.com/sandunwira/PassForge/releases/download/1.0.0/PassForge_1.0.0_x64_en-US.msi.zip"
+			"signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSaXNtaWpRNlh5VDZYaGhEL2ZmL1BOZ3dHS0ErVEE3ZWlqMWJOY1paaG1HOExtSmZ5ZnNXSjVRU1hUY0hhc2tkbGI5dHM4THJNc2hmNVp5Tmt4SUFKSm1VSmRSSkZCbVE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzA1NzU5NTMxCWZpbGU6UGFzc0ZvcmdlXzEuMS4wX3g2NF9lbi1VUy5tc2kuemlwCkNheGxpaG0wU2I1bEM3cEZST2s2UXRxNzh6ZmlmeW8wQlB6RUMrNVFCWVcvM2N0WGMyTXovWU5LeGdFMU1hSFhNVXRwbHk1THpzamVRTGhQYWtZVEJRPT0K",
+			"url": "https://github.com/sandunwira/PassForge/releases/download/1.1.0/PassForge_1.1.0_x64_en-US.msi.zip"
 		}
 	}
 }
