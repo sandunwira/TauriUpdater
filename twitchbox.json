@@ -1,11 +1,11 @@
 {
-	"version": "1.2.0",
-	"notes": "- Added Single Instance Plugin\nIt will prevent creating multiple instances of the app.",
-	"pub_date": "2023-04-21T19:50:00Z",
+	"version": "1.3.0",
+	"notes": "- Removed Splashscreen\n- Added Window State plugin\n- Added minimum height and width\n- Changed updater endpoint",
+	"pub_date": "2024-01-20T19:00:00Z",
 	"platforms": {
 		"windows-x86_64": {
-			"signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRKzF4LzA3UlRVbmRab3hlMDFiYlhIMXVReXBVY1ZBUGpycnBZUmJNRld1Z0l3QnFpeXl6cDhJUkQrSHNGai83Qm4xdEdBT0xjNTlNQ1R2ckFXNFJFNjMvcVh0N2tVaFFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjgyMTA1Njc0CWZpbGU6VHdpdGNoQm94XzEuMi4wX3g2NF9lbi1VUy5tc2kuemlwCmZEaWFYM213UWhzb1Qya0dyRU9FZncvdWxTYnFEd0diclBObFMxQ2xkL2w5aDAzNnpURGw3UVV3a2lPRHRocGE1SENOMGdmeDkrRHI4anNzUEIrR0NBPT0K",
-			"url": "https://github.com/sandunwira/TwitchBox/releases/download/1.2.0/TwitchBox_1.2.0_x64_en-US.msi.zip"
+			"signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRKzF4LzA3UlRVblQ4UjVRN2tCWlREZzFoOEY4K3BKN0RwM2d3NElQRXhZSlBGZERmOElLeVJMd3h6TUh5MlpjY1BHREttOGgzRmlxNUZsWExPanFoUjdiM3NmdWZvVmdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzA1NzU1MTI4CWZpbGU6VHdpdGNoQm94XzEuMy4wX3g2NF9lbi1VUy5tc2kuemlwCk1Xc1QvMUUvaWVUTy90QU5iYXJic3pDUU5tNXIrM25RNHV4WUE4T0JyUGtaelJJYXlhMW9OR0hsdUNIYVl1R2hnVHJpd3lMV3dxdUROVlV3VVduV0J3PT0K",
+			"url": "https://github.com/sandunwira/TwitchBox/releases/download/1.3.0/TwitchBox_1.3.0_x64_en-US.msi.zip"
 		}
 	}
 }
