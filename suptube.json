@@ -1,11 +1,11 @@
 {
-	"version": "1.4.2",
-	"notes": "- Changed Icons (Now Icons have more detailed look).\n- Disabled some hotkeys for reloading the webview.",
-	"pub_date": "2023-05-20T13:30:00Z",
+	"version": "1.5.0",
+	"notes": "- Added minimum height and width\n- Changed updater endpoint",
+	"pub_date": "2024-01-20T19:30:00Z",
 	"platforms": {
 		"windows-x86_64": {
-			"signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRMTFmVFB1OUFKUlRXaWF1allrUDhrQWx4c3NpblZITnd5Tmt5SGVRZW94R3hFMGdpc05aV3hob2Fudlp1RXY5dTVaMkgyWnVRWU4zTnhDSEhYTVhSL2loYlVWYUlraFFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjg0NTg5NzI3CWZpbGU6U3VwVHViZV8xLjQuMl94NjRfZW4tVVMubXNpLnppcApDSGtvM0hseUdkbFRZdkJxMHlBS2ZUc0pDRExBNVdGQTJzbW5kVFZyWDQxbm0zM2FOdVRIWWp0N25IWWtWdEMzSTR0bGFZMFlwRGRUdkFjRHJjdHBDZz09Cg==",
-			"url": "https://github.com/sandunwira/SupTube/releases/download/1.4.2/SupTube_1.4.2_x64_en-US.msi.zip"
+			"signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRMTFmVFB1OUFKUloxODI5QXhUZlZ0QjhmQ3loK1lxby9kZm9KMHNUQTZTYzhRbnBid1hiWWlhYnUvK3BxSEhFSGNmK3psTngyak5ua0Q3OWZnQzFpSGpEUGpoa3FZNWc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzA1NzU3OTcyCWZpbGU6U3VwVHViZV8xLjUuMF94NjRfZW4tVVMubXNpLnppcAp6N0ZRUzRVTFY1NzdzWGx5cVVHbjd4VEN2c0JqemNxN1VaY2NBdjdSRm9Od2JPeXZodWl1dmtUU0N1UjNSam1SNDA4eWlueEpiVFg5TlN3d3ppaXRDQT09Cg==",
+			"url": "https://github.com/sandunwira/SupTube/releases/download/1.5.0/SupTube_1.5.0_x64_en-US.msi.zip"
 		}
 	}
 }
