@@ -1,11 +1,11 @@
 {
-	"version": "1.5.0",
-	"notes": "- Added minimum height and width\n- Changed updater endpoint",
-	"pub_date": "2024-01-20T19:30:00Z",
+	"version": "1.5.1",
+	"notes": "- Updated the app",
+	"pub_date": "2024-05-22T14:00:00Z",
 	"platforms": {
 		"windows-x86_64": {
-			"signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRMTFmVFB1OUFKUloxODI5QXhUZlZ0QjhmQ3loK1lxby9kZm9KMHNUQTZTYzhRbnBid1hiWWlhYnUvK3BxSEhFSGNmK3psTngyak5ua0Q3OWZnQzFpSGpEUGpoa3FZNWc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzA1NzU3OTcyCWZpbGU6U3VwVHViZV8xLjUuMF94NjRfZW4tVVMubXNpLnppcAp6N0ZRUzRVTFY1NzdzWGx5cVVHbjd4VEN2c0JqemNxN1VaY2NBdjdSRm9Od2JPeXZodWl1dmtUU0N1UjNSam1SNDA4eWlueEpiVFg5TlN3d3ppaXRDQT09Cg==",
-			"url": "https://github.com/sandunwira/SupTube/releases/download/1.5.0/SupTube_1.5.0_x64_en-US.msi.zip"
+			"signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRMTFmVFB1OUFKUlo0NVh6RlpsUXp2ZGhoMUJ6QjZhSGNVRnlUSm5YejVDMW5xR2pYdkhMWFF6K0lRaTdrRlI4UkJkOXBiRkZLc2E2V3RuUVF3MnUxdjh6WnlqQ09PS0E4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzE2Mzg2NjgxCWZpbGU6U3VwVHViZV8xLjUuMV94NjRfZW4tVVMubXNpLnppcApSNjJKcjJnWTdTTTNSVzNXUEl1THlNRnNSeVUveGpMTTlrM0QzUTkzdHdzRDhLc24wQ0NKRG8vaUhmU2pRVjBGVExxNVVWV3FpMVlOODBXOU9meFZDQT09Cg==",
+			"url": "https://github.com/sandunwira/SupTube/releases/download/1.5.1/SupTube_1.5.1_x64_en-US.msi.zip"
 		}
 	}
 }
