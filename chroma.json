@@ -1,0 +1,11 @@
+{
+	"version": "1.0.0",
+	"notes": "- Initial Release of Chroma",
+	"pub_date": "2024-07-20T03:00:00Z",
+	"platforms": {
+		"windows-x86_64": {
+			"signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRanJRNTM3WklMSVFNSDFXVFl4UFVJdlFUdVoyK1ZRLzVVRDFxV3NZejJKd2tVL0dhaXR0cVlNR0NPN1Q5NkdFZkQwL2doRE5EUnQxdlZKTCtGbGtxQk44aXg1NUdZbFFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzIxNDQxMjI2CWZpbGU6Q2hyb21hXzEuMC4wX3g2NF9lbi1VUy5tc2kuemlwCm91N0dGV3Bra3A0YmpEV3lhWnNNU3BjMlBXVDVRZ2VOUnhCZ3o3ZWEwTFpVUC9PUlBtdG1ENGt1QXVoUWdrdmk4WnQ0NE5PSEllcEljcUFNcjcrUENRPT0K",
+			"url": "https://github.com/sandunwira/Chroma/releases/download/1.0.0/Chroma_1.0.0_x64_en-US.msi.zip"
+		}
+	}
+}
